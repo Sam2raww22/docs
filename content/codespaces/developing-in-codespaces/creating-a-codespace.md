@@ -6,7 +6,7 @@ permissions: '{% data reusables.codespaces.availability %}'
 redirect_from:
   - /github/developing-online-with-github-codespaces/creating-a-codespace
   - /github/developing-online-with-codespaces/creating-a-codespace
-versions:
+versions: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
   fpt: '*'
   ghec: '*'
 type: how_to
